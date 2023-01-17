@@ -3,7 +3,7 @@
 
 # About Devoteam Netherlands
 
-At Devoteam in the Netherlands, we promote technologies to have a positive impact on people and the world around us. With more than 20 years of experience in Cloud, Integration, Data, and DevOps in both local and international markets, and with more than 2000 satisfied clients we guide organizations to digital competitive advantage.
+At Devoteam Netherlands, we promote technologies to have a positive impact on people and the world around us. With more than 20 years of experience in Cloud, Integration, Data, and DevOps in both local and international markets, and with more than 2000 satisfied clients we guide organizations to digital competitive advantage.
 
 # Our culture
 
