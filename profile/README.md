@@ -12,4 +12,4 @@ True innovation is born from a powerful culture, fused with meaningful values. O
 
 # Joining this GitHub organization
 
-To join this GitHub organization please use our [self-service form](https://forms.gle/mVCsYVPKxdqSckbu6), logging in with your Devoteam Google account.
+Anyone within Devoteam Netherlands is eligible to join this GitHub organization. To join this GitHub organization please use our [self-service form](https://forms.gle/mVCsYVPKxdqSckbu6), logging in with your Devoteam Google account.
